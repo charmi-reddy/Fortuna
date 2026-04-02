@@ -1,10 +1,10 @@
 # 🏦 Fortuna — Smart Savings Vault on Algorand
 
-> ⚡ A decentralized savings system designed for **secure, transparent, and user-driven asset management** using Algorand smart contracts.
+>  A decentralized savings system designed for **secure, transparent, and user-driven asset management** using Algorand smart contracts.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 **Fortuna** transforms saving money into a **structured and verifiable on-chain experience**.
 
@@ -12,7 +12,7 @@ Instead of relying on passive banking apps or complex DeFi platforms, Fortuna pr
 
 ---
 
-## ❓ Problem
+##  Problem
 
 Modern financial tools fall short in key areas:
 
@@ -23,7 +23,7 @@ Modern financial tools fall short in key areas:
 
 ---
 
-## 💡 Solution
+##  Solution
 
 Fortuna introduces a **smart contract-powered savings vault** where:
 
@@ -34,10 +34,10 @@ Fortuna introduces a **smart contract-powered savings vault** where:
 
 ---
 
-## ⚙️ Core Features
+##  Core Features
 
-### 🔐 Smart Contract Logic
-- Built with **AlgoKit + TypeScript**
+###  Smart Contract Logic
+- Built with **AlgoKit + TypeScript + VibeKit**
 - Uses `LocalState<bigint>()` for per-user storage
 - Handles:
   - User opt-in  
@@ -46,33 +46,33 @@ Fortuna introduces a **smart contract-powered savings vault** where:
 
 ---
 
-### 💰 Secure Vault System
+###  Secure Vault System
 - Funds stored in **smart contract address**
 - Fully **non-custodial**
 - No centralized control
 
 ---
 
-### 📊 On-Chain Savings Tracking
+###  On-Chain Savings Tracking
 - Real-time balance updates
 - Transparent, user-specific storage
 
 ---
 
-### 🔗 Wallet Integration *(Planned)*
+###  Wallet Integration *(Planned)*
 - Pera Wallet support
 - Enables real blockchain transactions
 
 ---
 
-### 🎮 Gamification Layer *(Planned)*
+###  Gamification Layer *(Planned)*
 - Progress tracking
 - Milestones & rewards
 - Visual vault growth
 
 ---
 
-## 🔄 System Flow
+##  System Flow
 
 1. User connects wallet  
 2. User opts into the smart contract  
@@ -82,7 +82,7 @@ Fortuna introduces a **smart contract-powered savings vault** where:
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - **Blockchain**: Algorand  
 - **Smart Contracts**: AlgoKit (TypeScript)  
@@ -90,6 +90,6 @@ Fortuna introduces a **smart contract-powered savings vault** where:
 - **Languages**: TypeScript, JavaScript, HTML, CSS  
 - **Network**: Algorand LocalNet  
 
----
+
 
 ## 📂 Project Structure
