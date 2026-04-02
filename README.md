@@ -90,6 +90,33 @@ Fortuna introduces a **smart contract-powered savings vault** where:
 - **Languages**: TypeScript, JavaScript, HTML, CSS  
 - **Network**: Algorand LocalNet  
 
+---
+---
 
+## 🚀 Getting Started
 
-## 📂 Project Structure
+### 1. Clone the repository
+
+git clone https://github.com/charmi-reddy/Fortuna.git
+cd Fortuna
+
+### 2. Install dependencies
+npm install
+
+### 3. Start Algorand LocalNet
+algokit localnet start
+
+### 4. Run the app
+npm run dev
+
+## Key Concept
+- Vault Address = Smart Contract Address
+- All users deposit into a shared vault
+- Individual balances are tracked using local state
+
+##  Why Fortuna?
+- Real-world financial use case
+- Secure, stateful smart contract design
+- Transparent and verifiable system
+- Built for scalability and gamification
+- Clean architecture (LocalNet → TestNet ready)
